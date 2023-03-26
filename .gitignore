@@ -1,0 +1,6 @@
+*.xlsm
+*.xls
+*.xlsx
+*.exe
+data/
+result/
